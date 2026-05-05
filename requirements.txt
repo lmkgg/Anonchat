@@ -1,0 +1,22 @@
+# Основные зависимости
+aiogram==3.4.1
+aiohttp==3.9.5
+aiofiles==23.2.1
+aiosqlite==0.20.0
+
+# База данных
+SQLAlchemy==2.0.30
+asyncpg==0.29.0
+
+# Конфигурация
+python-dotenv==1.0.1
+
+# Автоматические зависимости aiogram
+pydantic==2.7.1
+certifi==2024.2.2
+magic-filter==1.0.12
+attrs==23.2.0
+multidict==6.0.5
+frozenlist==1.4.1
+yarl==1.9.4
+idna==3.7
